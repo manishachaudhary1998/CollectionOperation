@@ -10,7 +10,9 @@ public static void main(String[] args) {
 	list.add("manisha");
 	list.add("rohan");
 	list.add("akshay");
-	System.out.println(list);
-
+	//System.out.println(list);
+for(String str:list) {
+	System.out.println(str);
+}
 }
 }

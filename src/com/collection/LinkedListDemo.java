@@ -11,5 +11,6 @@ public static void main(String[] args) {
 	list.add(45);
 	list.add(80);
 	System.out.println(list);
+	
 }
 }
